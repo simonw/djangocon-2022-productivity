@@ -1,5 +1,7 @@
 # Massively increase your productivity on personal projects with comprehensive documentation and automated tests
 
+[Slides on Speaker Deck](https://speakerdeck.com/simon/massively-increase-your-productivity-on-personal-projects-with-comprehensive-documentation-and-automated-tests)
+
 Supporting links for [my talk at DjangoCon 2022](https://2022.djangocon.us/talks/massively-increase-your-productivity-on/).
 
 - [My PyPI profile](https://pypi.org/user/simonw/) (185 projects and counting)
