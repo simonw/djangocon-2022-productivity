@@ -2,7 +2,7 @@
 
 [Slides on Speaker Deck](https://speakerdeck.com/simon/massively-increase-your-productivity-on-personal-projects-with-comprehensive-documentation-and-automated-tests)
 
-DjangoCon attendees can access the video [here](https://djangoconus2022.loudswarm.com/session/massively-increase-your-productivity-on-personal-projects-with-comprehensive-documentation-and-automated-tests). A public video should be available some time after the conference.
+[Talk video on YouTube](https://youtu.be/GLkRK2rJGB0)
 
 Supporting links for [my talk at DjangoCon 2022](https://2022.djangocon.us/talks/massively-increase-your-productivity-on/).
 
