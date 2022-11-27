@@ -1,5 +1,7 @@
 # Massively increase your productivity on personal projects with comprehensive documentation and automated tests
 
+My blog now has [a detailed annotated version of this talk](https://simonwillison.net/2022/Nov/26/productivity/).
+
 [Slides on Speaker Deck](https://speakerdeck.com/simon/massively-increase-your-productivity-on-personal-projects-with-comprehensive-documentation-and-automated-tests)
 
 [Talk video on YouTube](https://youtu.be/GLkRK2rJGB0)
